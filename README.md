@@ -1,5 +1,6 @@
 # SSM-Movie
-基于SSM框架的仿猫眼电影购票系统
+
+仿猫眼电影购票系统毕业设计项目
 
 **基于Spring + SpringMVC + Mybatis + Layui + echarts**
 

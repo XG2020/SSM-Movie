@@ -4,7 +4,7 @@
 
 **基于Spring + SpringMVC + Mybatis + Layui + echarts**
 
-tomcat 需要设置端口：8081   配置文件 添加 URIEncoding="utf-8" 以支持中文链接，否则演员和剧照无法正常显示
+tomcat 需要设置端口：8081   配置文件 添加 URIEncoding="utf-8" 以支持中文链接，否则演员图片和剧照无法正常显示
 
 **已实现功能**
 - 前台
